@@ -12,6 +12,7 @@ nation
 vessel
 been
 blow
+beautiful
 profound
 are
 resistance
